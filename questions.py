@@ -132,8 +132,17 @@ QUESTIONS = (
     "Šta bi voleo/la da menjaš u svom životu u budućnosti?",
     "Koje su tvoje nade za budućnost tvoje zajednice ili društva?",
     #Language and Learning
+    "Šta vas je motivisalo da učite srpski jezik i šta vas i dalje motiviše?",
     "Kako si naučio/la srpski jezik?",
     "Da li imaš neki savet za učenje jezika?",
     "Koje je najteže pravilo koje si naučio/la u srpskom jeziku?",
-    "Da li si ikada učio/la",
+    "Koji su najveći izazovi koje ste naišli tokom učenja srpskog jezika?",
+    "Da li si nekada naručivao/la nešto telefonom na srpskom?",
+    "Kako redovno vežbate govor na srpskom jeziku?",
+    "Koji resursi (knjige, aplikacije, sajtovi) su vam najviše pomogli u procesu učenja?",
+    "Koje knjige ili filmove na srpskom jeziku preporučujete za učenje jezika?",
+    "Da li upotrebljavate društvene mreže i online zajednice za vežbanje srpskog jezika?",
+    "Kako procenjujete svoj napredak u učenju srpskog jezika?",
+    "Da li imate neku omiljenu frazu ili izreku na srpskom jeziku?",
+    "Koje veštine (govor, slušanje, čitanje, pisanje) vam najteže idu i zašto?",
 )
