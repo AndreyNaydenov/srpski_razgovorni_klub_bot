@@ -4,3 +4,4 @@ When you activate a bot and issue an "/get" command it will give you new questio
 
 TODO: /list command to list all questions  
 TODO: Make filters for topics (if for example user wants only specific topic)  
+TODO: Add chat button to quickly send /get command
